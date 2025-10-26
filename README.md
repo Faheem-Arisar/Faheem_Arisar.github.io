@@ -9,11 +9,9 @@
 ---
 
 ## 🎓 Education
-- **M.Sc. Civil Engineering**, Mehran University of Engineering & Technology, Jamshoro  
+  
+- **B.E. Civil Engineering**, Quaid-e-Awam University of Engineering Science and Technology, Nawabshah Pakistan  
   *Focus: Structural Engineering and Materials*
-- **B.E. Civil Engineering**, Mehran University of Engineering & Technology, Jamshoro  
-
----
 
 ## 🧠 Research Interests
 - Structural Health Monitoring  
